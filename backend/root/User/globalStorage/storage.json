@@ -1,0 +1,89 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "d5ddbb4c9f9ee4a4bfde4d8196925928bcf80636f1d12797c74c28dab177a39d",
+    "telemetry.devDeviceId": "ccb9170f-d864-47c9-83ea-31dd2ef8d96a",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/hunterx/Downloads/sacred-vista-web-main/backend"
+            },
+            {
+                "folderUri": "file:///home/hunterx/Downloads/sacred-vista-web-main"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1774357388234"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/hunterx/Downloads/sacred-vista-web-main/backend": "__default__profile__",
+            "file:///home/hunterx/Downloads/sacred-vista-web-main": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/hunterx/Downloads/sacred-vista-web-main",
+            "backupPath": "/home/hunterx/Downloads/sacred-vista-web-main/backend/root/Backups/083e5567fc98abd8f29f3f2cfa53b7c6",
+            "uiState": {
+                "mode": 1,
+                "x": 0,
+                "y": 0,
+                "width": 1536,
+                "height": 820
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "0f1acd5644c18a9cff54175f0fe0c804": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "33d0970bc8c6fbb17a52060ecc19406c": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

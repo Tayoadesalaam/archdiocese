@@ -1,0 +1,81 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "d5ddbb4c9f9ee4a4bfde4d8196925928bcf80636f1d12797c74c28dab177a39d",
+    "telemetry.devDeviceId": "ccb9170f-d864-47c9-83ea-31dd2ef8d96a",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/hunterx/Downloads/Archdiosese"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1776772842846"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/hunterx/Downloads/Archdiosese": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/hunterx/Downloads/Archdiosese",
+            "backupPath": "/home/hunterx/Downloads/Archdiosese/root/Backups/785c0689c939f787cacf98c37d881035",
+            "uiState": {
+                "mode": 1,
+                "x": 168,
+                "y": 17,
+                "width": 1200,
+                "height": 803
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 300,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "2529c613e0b651cd678f12562aca1376": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

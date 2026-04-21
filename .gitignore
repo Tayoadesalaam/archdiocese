@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+venv2/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Backend specific
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/alembic/versions/*.pyc
+
+# Frontend specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+dist-ssr/
+*.local
+
+# Testing
+.coverage
+.coverage.*
+.nyc_output/
+.pytest_cache/
+htmlcov/
+
+# Build outputs
+*.pid
+*.seed
+*.pid.lock
+
+# Misc
+*.bak
+*.tmp
+*.temp
+.cache/
