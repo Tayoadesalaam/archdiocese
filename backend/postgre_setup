@@ -1,5 +1,7 @@
 postgresql setup:
 
+winget install --id=PostgreSQL.PostgreSQL.17 -e
+
 @echo off
 echo Installing PostgreSQL...
 winget install PostgreSQL.PostgreSQL
