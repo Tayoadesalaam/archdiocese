@@ -1,0 +1,23 @@
+postgresql setup:
+
+@echo off
+echo Installing PostgreSQL...
+winget install PostgreSQL.PostgreSQL
+
+echo Adding to PATH...
+setx PATH "%PATH%;C:\Program Files\PostgreSQL\16\bin"
+
+echo Starting PostgreSQL service...
+net start postgresql-16
+sc config postgresql-16 start= auto
+
+echo Creating database...
+"C:\Program Files\PostgreSQL\16\bin\psql" -U postgres -c "CREATE DATABASE archdiocese_db;"
+"C:\Program Files\PostgreSQL\16\bin\psql" -U postgres -c "CREATE USER archdiocese_user WITH PASSWORD 'yourpassword';"
+"C:\Program Files\PostgreSQL\16\bin\psql" -U postgres -c "GRANT ALL PRIVILEGES ON DATABASE archdiocese_db TO archdiocese_user;"
+
+echo Setup complete!
+echo Database: archdiocese_db
+echo Username: archdiocese_user
+echo Password: yourpassword
+pause
